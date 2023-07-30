@@ -1,6 +1,6 @@
 ![Web developer](https://www.simplilearn.com/ice9/free_resources_article_thumb/fullstack_php_js.jpg)
 <h1 align="center">Hi 👋, I'm MD Anisul Islam</h1>
-<h3 align="center">Full-Stack Web developer</h3>
+<h3 align="center">Full-Stack (MERN) Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manisulislam&label=Profile%20views&color=0e75b6&style=flat" alt="manisulislam" /> </p>
 
